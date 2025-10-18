@@ -1,0 +1,35 @@
+Sarah Williams
+Full Stack Developer
+Email: sarah.williams@email.com
+Phone: (555) 234-5678
+
+PROFESSIONAL SUMMARY
+Full stack developer with 3 years of experience in building modern web applications. Proficient in Python, JavaScript, and cloud technologies. Passionate about creating user-friendly interfaces and robust backend systems.
+
+SKILLS
+- Python, JavaScript
+- React, Node.js
+- Express.js
+- MongoDB
+- HTML/CSS
+- Git
+
+PROFESSIONAL EXPERIENCE
+Full Stack Developer, StartUp Ventures (2021-Present)
+- Developed React frontend for customer-facing applications
+- Built REST APIs using Express.js and MongoDB
+- Collaborated with UX designers to implement responsive interfaces
+- Participated in Agile development processes
+
+Junior Developer, WebSolutions (2020-2021)
+- Assisted in maintaining existing Python applications
+- Contributed to frontend development using React
+- Fixed bugs and implemented minor features
+- Participated in code reviews
+
+EDUCATION
+B.A. Computer Science, University of Washington (2020)
+
+CERTIFICATIONS
+- React Certification
+- MongoDB Certification

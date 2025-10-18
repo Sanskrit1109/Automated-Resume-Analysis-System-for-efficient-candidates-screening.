@@ -1,0 +1,39 @@
+Senior Software Engineer - Python/Django
+
+Company: Tech Innovations Inc.
+Location: San Francisco, CA
+Type: Full-time
+
+Job Description:
+We are seeking a talented Senior Software Engineer to join our dynamic team. The ideal candidate will have extensive experience in Python development and a strong understanding of web frameworks.
+
+Responsibilities:
+- Design, develop, and maintain scalable web applications
+- Collaborate with cross-functional teams to define, design, and ship new features
+- Optimize applications for maximum speed and scalability
+- Participate in code reviews and ensure adherence to coding standards
+- Mentor junior developers and contribute to team growth
+
+Requirements:
+- Bachelor's degree in Computer Science, Engineering, or related field
+- 5+ years of experience in Python development
+- Strong experience with Django web framework
+- Proficiency in JavaScript and modern frontend frameworks (React preferred)
+- Experience with PostgreSQL or MySQL databases
+- Knowledge of AWS or other cloud platforms
+- Familiarity with Docker and containerization
+- Experience with RESTful API design and implementation
+- Strong problem-solving skills and attention to detail
+
+Nice to Have:
+- Experience with machine learning frameworks (TensorFlow, PyTorch)
+- Knowledge of DevOps practices and CI/CD pipelines
+- Experience with microservices architecture
+- Familiarity with Agile/Scrum methodologies
+
+Benefits:
+- Competitive salary and equity package
+- Comprehensive health, dental, and vision insurance
+- Flexible work arrangements
+- Professional development opportunities
+- Generous PTO and holiday policy

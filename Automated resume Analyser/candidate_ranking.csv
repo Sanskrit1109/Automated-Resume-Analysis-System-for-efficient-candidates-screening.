@@ -1,0 +1,4 @@
+candidate,email,match_score,skills_matched
+Jane Smith,jane.smith@email.com,39.94,2
+Michael Johnson,michael.johnson@email.com,23.17,0
+Sarah Williams,sarah.williams@email.com,18.69,0

@@ -1,0 +1,37 @@
+Michael Johnson
+Python Developer
+Email: michael.johnson@email.com
+Phone: (555) 456-7890
+
+PROFESSIONAL SUMMARY
+Python developer with 4 years of experience building web applications and data processing systems. Strong background in Django and Flask frameworks with expertise in database design and cloud deployment.
+
+SKILLS
+- Python (4 years)
+- Django, Flask
+- JavaScript/Vue.js
+- MySQL, MongoDB
+- Google Cloud Platform
+- Kubernetes
+- REST APIs
+- Unit Testing
+
+PROFESSIONAL EXPERIENCE
+Python Developer, DataSystems LLC (2021-Present)
+- Developed Django applications for data visualization and reporting
+- Implemented REST APIs for mobile application integration
+- Containerized applications using Kubernetes on GCP
+- Created automated data processing pipelines
+
+Software Engineer, AppWorks (2019-2021)
+- Built Flask-based microservices for e-commerce platform
+- Designed and optimized MySQL databases for high-performance queries
+- Integrated third-party APIs for payment processing and analytics
+- Wrote comprehensive unit tests achieving 90% code coverage
+
+EDUCATION
+B.S. Computer Science, MIT (2019)
+
+PROJECTS
+Inventory Management System - Django application for tracking warehouse inventory with real-time updates
+Data Analytics Dashboard - Web-based dashboard for visualizing business metrics using Chart.js
